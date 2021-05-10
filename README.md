@@ -1,3 +1,5 @@
+# Budget Tracker is a bootcamp project led by Reed Barger
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
