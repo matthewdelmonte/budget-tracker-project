@@ -5,5 +5,6 @@ https://flipboard.com/article/build-a-react-budget-tracker-app-learn-react-conte
 - case-insensitive search
 - TODO display dollars and cents
 - TODO add expense catagories with drop down
-- TODO add search on category
+- TODO add search option on category
+
 
