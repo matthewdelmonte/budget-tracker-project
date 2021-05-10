@@ -13,7 +13,7 @@ const ExpenseList = () => {
 
   const handleChange = (event) => {
     const searchResults = expenses.filter((filteredExpenses) => 
-      filteredExpenses.name.toLowerCase().includes(event.target.value)
+      filteredExpenses.name.toLowerCase().includes(event.target.value.toLowerCase())
     );
     setfilteredExpenses(searchResults);
 };
